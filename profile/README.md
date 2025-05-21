@@ -1,7 +1,7 @@
 # Super-Ultra-GT
 
 Bem-vindo(a) à **Super-Ultra-GT**! 🎓🚀  
-Uma organização criada pelo professor **Cesar Hideki** especialmente para acompanhar a jornada da nova e poderosa **turma GT-09**, agora reforçada com a chegada das turmas **GT-10** e **GT-11**!
+Uma organização criada pelo professor [**Cesar Hideki**](https://github.com/chidekina) especialmente para acompanhar a jornada da nova e poderosa **turma GT-09**, agora reforçada com a chegada das turmas **GT-10** e **GT-11**!
 
 ---
 
@@ -13,9 +13,19 @@ Com a fusão das turmas GT-09, GT-10 e GT-11, formamos uma nova unidade: mais di
 
 ---
 
+## 🎓 Sobre a turma GT
+
+A sigla **GT** vem de **Geração Tech**, um projeto educacional voltado à formação prática e colaborativa em tecnologia.  
+A **turma GT-09** nasceu dentro desse projeto e agora incorpora os(as) colegas das turmas GT-10 e GT-11, unindo forças e talentos para um ciclo ainda mais produtivo.
+
+---
+
 ## 👥 Quem faz parte?
 
-Todos os(as) alunos(as) da nova **GT-09**, incluindo os(as) colegas que vieram das turmas GT-10 e GT-11.  
+- Alunos(as) da **GT-09**, **GT-10** e **GT-11**
+- Professor responsável: [**Cesar Hideki**](https://github.com/chidekina)  
+- Monitor da turma: [**Ranyer Lopes**](https://github.com/RanyerLopes)
+
 Aqui, todo mundo tem espaço para crescer, contribuir e brilhar em equipe.
 
 ---
